@@ -7,7 +7,7 @@ The current repo size is 24GB - be aware! When zipping and torrenting is complet
 
 ### Rev 1.1 Task List
 * [x] Explain methodology
-* [ ] Make Quick-fix for duplicates caused by newline and blankspace characters (not a full fix)
+* [ ] Make Quick-fix for duplicates caused by newline and blankspace characters (not a full fix, more of a temporary patch)
 * [ ] Upload WPA-Chunks
 * [ ] Super-Zip the smaller files
 * [ ] Make some torrents for the big files (didn't expect it to catch on!)
@@ -55,6 +55,14 @@ Lists sorted by popularity will include "probable" in the filename
 ## Dictionary-Style Lists
 
 Wordlists including dictionaries, encyclopedic lists and miscellaneous.
+
+
+
+
+## Attributions
+ * [Ian Norden](https://github.com/iancnorden) for helping with duplicates and volunteering his time to make me a little less noobish
+ * The folks over at [OWASP's SecLists](https://www.owasp.org/index.php/Projects/OWASP_SecLists_Project) for providing sources and inspiration
+ * Sources like [Weakpass](https://weakpass.com/), [Crackstation](https://crackstation.net/), [Hashkiller](https://hashkiller.co.uk/) and [Hashes.Org](https://hashes.org/) for inspiration and lists.
 
 
 
