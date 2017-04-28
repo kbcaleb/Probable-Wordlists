@@ -70,7 +70,9 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. 
  + *However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.*
  
- [https://licensebuttons.net/l/by-sa/4.0/88x31.png](https://creativecommons.org/licenses/by-sa/4.0/)
+ ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+ 
+
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
  
  You are free to:
