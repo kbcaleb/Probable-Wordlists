@@ -65,7 +65,7 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
 
 
-## Disclaimer
+## Disclaimer and License
  + These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
  + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. 
  + *However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.*
@@ -75,13 +75,13 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
  
- You are free to:
+ #### You are free to:
 
-##### Share
-+Copy and redistribute the material in any medium or format
+#### Share
++ Copy and redistribute the material in any medium or format
 
-##### Adapt
-+Remix, transform, and build upon the materialfor any purpose, even commercially.
+#### Adapt
++ Remix, transform, and build upon the materialfor any purpose, even commercially.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
@@ -99,3 +99,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 + No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 
+Enjoy!
