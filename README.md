@@ -15,8 +15,10 @@ The current repo size is 24GB - be aware! When zipping and torrenting is complet
 * More sources
 * Bigger sources
 * Non-ASCII Sources
-* Specialized lists compiled from sources themselves 
+* Specialized lists compiled from sources themselves
+
   WPA lists (labeled as such before I process them), Russian, Non-English, etc.
+  
   (Due to poor source labeling these won't be as inclusive as the full lists, but it'll be a start)
 
 ### Laser-Guided Wordlist Generator in the works as well.
