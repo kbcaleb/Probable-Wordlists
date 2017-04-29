@@ -11,15 +11,14 @@ The current repo size is 24GB - be aware! When zipping and torrenting is complet
 * [ ] Super-Zip the smaller files
 * [ ] Make some torrents for the big files (didn't expect it to catch on!)
 
-### Rev 2 List
+### Rev 2.0 Task List
 * More sources
 * Bigger sources
 * Non-ASCII Sources
 * Specialized lists compiled from sources themselves
 
-  WPA lists (labeled as such before I process them), Russian, Non-English, etc.
-  
-  (Due to poor source labeling these won't be as inclusive as the full lists, but it'll be a start)
+Specialized lists may include WPA lists (labeled as such before I process them), Russian, Non-English, etc.
+(Due to poor source labeling these won't be as inclusive as the full lists, but it'll be a start)
 
 ### Laser-Guided Wordlist Generator in the works as well.
 
