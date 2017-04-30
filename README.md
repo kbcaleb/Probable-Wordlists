@@ -8,7 +8,7 @@ The current repo size is 24GB - be aware! When zipping and torrenting is complet
 ### Rev 1.1 Task List
 * [x] Explain methodology
 * [ ] Make Quick-fix for duplicates caused by newline and blankspace characters (not a full fix, more of a temporary patch)
-* [ ] Super-Zip the smaller files
+* [ ] Zip the smaller files (LZMA, compression rate 20-25%)
 * [ ] Make some torrents for the big files (didn't expect it to catch on!)
 
 ### Rev 2.0 Task List
