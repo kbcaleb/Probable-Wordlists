@@ -1,6 +1,6 @@
-### To Potential Cloners and Master-Zip Downloaders
-This is a large repository. As of now, there are Mega.nz links to the files contained within, but no torrents.
-It is no longer on the order of 20GB - and is now less than 70MB. The wordlists are far larger, but aren't stored here.
+### To Potential Cloners and Master-Zip Downloaders - Rev 1.1 is here! Easy to clone!
+Instead of hundreds of smaller files, there are handful Mega.nz links to the Wordlists. Torrents in 1.2.
+The repository is no longer more than 20GB! It's now less than 70MB. 
 
 
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
