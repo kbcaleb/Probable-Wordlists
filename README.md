@@ -1,31 +1,11 @@
 ### To Potential Cloners and Master-Zip Downloaders
-This is a large repository. As of now, there are very few links and no torrents to the files contained within.
-The current repo size is 24GB - be aware! When zipping and torrenting is complete, the repo will likely become under 1GB.
+This is a large repository. As of now, there are Mega.nz links to the files contained within, but no torrents.
+It is no longer on the order of 20GB - and is now less than 70MB. The wordlists are far larger, but aren't stored here.
+
 
 ![Probable Wordlists Logo](https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/ProbableWordlistLogo.png)
 
 
-### Rev 1.1 Task List
-* [x] Explain methodology
-* [ ] Make Quick-fix for duplicates caused by newline and blankspace characters (not a full fix, more of a temporary patch)
-* [ ] Zip the smaller files (LZMA, compression rate 20-25%)
-* [ ] Make some torrents for the big files (didn't expect it to catch on!)
-
-### Rev 2.0 Task List
-* More sources
-* Bigger sources
-* Non-ASCII Sources
-* Specialized lists compiled from sources themselves
-
-Specialized lists may include WPA lists (labeled as such before I process them), Russian, Non-English, etc.
-(Due to poor source labeling these won't be as inclusive as the full lists, but it'll be a start)
-
-### Laser-Guided Wordlist Generator in the works as well.
-
-There are some great wordlists out there, but I decided to amalgamate, edit, trim and create a few of my own.
-
-I did not steal, phish, deceive or hack in any way to get hold of these passwords. 
-All lines in these files were obtained through freely available means.
 
 # Probable Wordlists
 Wordlists sorted by popularity originally created for password generation and testing
@@ -39,6 +19,9 @@ Wordlists sorted by popularity originally created for password generation and te
 
  Some of these lists were composed of the other lists, and some were exact duplicates. I took care to remove any exact duplicate files - we didn't need to have any avoidable false positives. __*If a password was found across multiple files, I considered this to be an approximation of its popularity.*__ If an entry was found in 5 files, it wasn't too popular. If an entry could be found in 300 files, it was very popular. Using Unix commands, I concatenated all the files into one giant file representing keys to over 4 billion secret areas on the web, and sorted them by number of appearances in the single file. From this, I was able to create a large wordlist sorted by popularity, not the alphabet.
 
+ 
+### Laser-Guided Wordlist Generator in the works as well - stay tuned
+ 
 
 ## Real-Passwords
 These are **REAL** passwords. 
@@ -47,10 +30,12 @@ Some of these passwords can be found on aggregator sites where they are separate
 
 The files in this folder come from https://github.com/danielmiessler/SecLists, https://weakpass.com/ and https://hashes.org/
 
-*NOTE THAT FOR THIS FIRST VERSION, ALL NON-ASCII CHARACTERS HAVE BEEN REMOVED*
+*NOTE THAT UNTIL REV 2.0, ALL NON-ASCII CHARACTERS HAVE BEEN REMOVED*
+ * A more inclusive, and thus, more accurate list is in the works.
 
+*NOTE THAT THE DUE TO THE NEWLINE DUPLICATES ISSUE, 'WPA-Length' LISTS MAY INCLUDE LINES OF 7 CHARACTERS*
+ * This will be fixed in Rev 2.0
 
-A more inclusive, and thus, more accurate list is in the works.
 
 Lists sorted by popularity will include "probable" in the filename
 
@@ -60,6 +45,31 @@ Lists sorted by popularity will include "probable" in the filename
 Wordlists including dictionaries, encyclopedic lists and miscellaneous.
 
 
+## Tasklist and Plans
+
+### Rev 1.1 Task List
+* [x] Explain methodology
+* [x] Make Quick-fix for duplicates caused by newline and blankspace characters (not a full fix, more of a temporary patch)
+* [x] Compress the Files(LZMA-Zip, tar.gz, tar.xz)
+* [x] Removed huge files making the repo hard to clone.
+
+
+### Rev 1.2 Task List
+* [ ] Re-include Largest Wordlists in Repo (passwords appearing at least twice)
+* [ ] Create and Add Torrents
+
+
+### Rev 2.0 Plan
+* Include truly acccurate WPA-Length sorting
+* More sources (Contributions open, with strict terms. See Contributions page)
+* Bigger sources
+* Non-ASCII Sources
+* Specialized lists compiled from sources themselves
+* Totally Recompile wordlists for improved accuracy, no duplicates from the get-go.
+
+### Undetermined Future Plans
+* [x] Come up with poetic name for 'things that'd be cool that I'm not sure when I'll do'
+* [ ] Create list of "pure" common passwords for use with rule-based cracking
 
 
 ## Attributions
@@ -74,11 +84,15 @@ Wordlists including dictionaries, encyclopedic lists and miscellaneous.
  + The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness. 
  + *However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.*
  
+I did not steal, phish, deceive or hack in any way to get hold of these passwords. 
+All lines in these files were obtained through freely available means.
+ 
+ 
  [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
  __This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)__
  
- #### You are free to:
+#### You are free to:
 
 #### Share
 + Copy and redistribute the material in any medium or format
