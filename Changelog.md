@@ -10,3 +10,6 @@
 * Moved tasklist and plans farther down the Readme
 * Decided to include [dogfud's issue #12](https://github.com/berzerk0/Probable-Wordlists/issues/12) in a future release
 * Realized and announced 7-Character WPA issue to be fixed in Rev 2.
+* Added this changelog
+* Inlcuded License terms in Contributing.md
+* Added little description/commits for clarity
